@@ -1,0 +1,722 @@
+https://youtu.be/e25EKrQLzFw?si=B3gFMdWny3szgo3r
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="|.AYMAN LIVE TV.| MTV Lebanon" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/47/Murr_TV_Logo.svg/1200px-Murr_TV_Logo.svg.png" group-title="AYMAN LIVE TV",|.AYMAN LIVE TV.| MTV Lebanon
+https://live.3cd.io/v1/broadcast/mtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="|.AYMAN LIVE TV.| Al-Jadeed TV " tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/17/Al_Jadeed.PNG" group-title="AYMAN LIVE TV",|.AYMAN LIVE TV.| Al-Jadeed TV 
+http://tv.pure-onetv.com:25443/live/86GEYGDE/7775Y8GVOZ/15976.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="|.AYMAN LIVE TV.| Al Jadeed TV +" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/17/Al_Jadeed.PNG" group-title="AYMAN LIVE TV",|.AYMAN LIVE TV.| Al Jadeed TV 
+http://tv.pro-ott.com:25443/live/V19fsVws2u9du/i1eCJK2Y8C/151326.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="|.AYMAN LIVE TV.| MTV Lebanon" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/47/Murr_TV_Logo.svg/1200px-Murr_TV_Logo.svg.png" group-title="AYMAN LIVE TV",|.AYMAN LIVE TV.| MTV Lebanon
+http://tv.pure-onetv.com:25443/live/86GEYGDE/7775Y8GVOZ/64724.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="|.AYMAN LIVE TV.| LBC " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/LBC_Express_logo.svg/1200px-LBC_Express_logo.svg.png" group-title="AYMAN LIVE TV",|.AYMAN LIVE TV.|LBC International
+http://tv.pure-onetv.com:25443/live/86GEYGDE/7775Y8GVOZ/40932.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.AYMAN LIVE TV.| LDC Lebanon " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/LDC_logo_new.png" group-title="AYMAN LIVE TV",|.AYMAN LIVE TV.| LDC Lebanon 
+http://tv.pro-ott.com:25443/live/V19fsVws2u9du/i1eCJK2Y8C/151335.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.AYMAN LIVE TV.| LBC Sat " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/LDC_logo_new.png" group-title="AYMAN LIVE TV",|.AYMAN LIVE TV.| LBC Sat 
+http://tv.pro-ott.com:25443/live/V19fsVws2u9du/i1eCJK2Y8C/151336.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.AYMAN LIVE TV.| NBN " tvg-logo="https://download.logo.wine/logo/NBN_Co/NBN_Co-Logo.wine.png" group-title="AYMAN LIVE TV",|.AYMAN LIVE TV.| NBN 
+http://tv.pro-ott.com:25443/live/V19fsVws2u9du/i1eCJK2Y8C/151337.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.AYMAN LIVE TV.| NBN " tvg-logo="https://download.logo.wine/logo/NBN_Co/NBN_Co-Logo.wine.png" group-title="AYMAN LIVE TV",|.AYMAN LIVE TV.| NBN 
+http://tv.pro-ott.com:25443/live/V19fsVws2u9du/i1eCJK2Y8C/151338.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.AYMAN LIVE TV.| Lebanon TV [ Tele Liban ] " tvg-logo="https://i.pinimg.com/236x/ba/08/22/ba08225e5ce2888fdb77d5576987a9df.jpg" group-title="AYMAN LIVE TV",|.AYMAN LIVE TV.| Lebanon TV [ Tele Liban ] 
+http://tv.pro-ott.com:25443/live/V19fsVws2u9du/i1eCJK2Y8C/151339.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.AYMAN LIVE TV.| OTV Lebanon " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/OTV_%28logo%29.svg/2560px-OTV_%28logo%29.svg.png" group-title="AYMAN LIVE TV",|.AYMAN LIVE TV.| OTV Lebanon 
+http://tv.pro-ott.com:25443/live/V19fsVws2u9du/i1eCJK2Y8C/151340.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.AYMAN LIVE TV.| Future TV " tvg-logo="https://egypt.mom-rsf.org/uploads/tx_lfrogmom/media/14024-1409_import.jpg" group-title="AYMAN LIVE TV",|.AR.| Future TV 
+http://tv.pro-ott.com:25443/live/V19fsVws2u9du/i1eCJK2Y8C/151341.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.AYMAN LIVE TV.| Al Mayadeen TV " tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/19/Al_Mayadeen_logo.png" group-title="AYMAN LIVE TV",|.AYMAN LIVE TV.| Al Mayadeen TV 
+http://tv.pro-ott.com:25443/live/V19fsVws2u9du/i1eCJK2Y8C/151342.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.AYMAN LIVE TV.| Al Manar TV " tvg-logo="https://seeklogo.com/images/A/Al_Manar-logo-617BD63196-seeklogo.com.png" group-title="AYMAN LIVE TV",|.AYMAN LIVE TV.| Al Manar TV 
+http://tv.pro-ott.com:25443/live/V19fsVws2u9du/i1eCJK2Y8C/151343.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.AYMAN LIVE TV.| Al Manar TV+" tvg-logo="https://seeklogo.com/images/A/Al_Manar-logo-617BD63196-seeklogo.com.png" group-title="AYMAN LIVE TV",|.AYMAN LIVE TV.| Al Manar TV+
+http://tv.pro-ott.com:25443/live/V19fsVws2u9du/i1eCJK2Y8C/151344.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.AYMAN LIVE TV.| Al Iman TV " tvg-logo="https://www.nicepng.com/png/detail/872-8728685_al-iman-logo-main-al-iman-for-contracting.png" group-title="AYMAN LIVE TV",|.AYMAN LIVE TV.| Al Iman TV 
+http://tv.pro-ott.com:25443/live/V19fsVws2u9du/i1eCJK2Y8C/151345.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.AYMAN LIVE TV.| One TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Logo_oneTV_DE_2016.png" group-title="AYMAN LIVE TV",|.AR.| One TV
+http://tv.pro-ott.com:25443/live/V19fsVws2u9du/i1eCJK2Y8C/151346.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.AYMAN LIVE TV.| Al Aan TV " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Al_Aan_TV_Logo.png" group-title="AYMAN LIVE TV",|.AR.| Al Aan TV 
+http://tv.pro-ott.com:25443/live/V19fsVws2u9du/i1eCJK2Y8C/151347.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.AYMAN LIVE TV.| Al Alam News TV " tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/AlAlam-News.png" group-title="AYMAN LIVE TV",|.AYMAN LIVE TV.| Al Alam News TV 
+http://tv.pro-ott.com:25443/live/V19fsVws2u9du/i1eCJK2Y8C/151348.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.AYMAN LIVE TV.| Aghani " tvg-logo="https://aghaniaghani.com/images/logo@2x.png" group-title="AYMAN LIVE TV",|.AYMAN LIVE TV.| Aghani 
+http://tv.pro-ott.com:25443/live/V19fsVws2u9du/i1eCJK2Y8C/151349.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.AYMAN LIVE TV.| Arabica " tvg-logo="https://arabicagroup.tv/images/app1.png" group-title="AYMAN LIVE TV",|.AYMAN LIVE TV.| Arabica 
+http://tv.pro-ott.com:25443/live/V19fsVws2u9du/i1eCJK2Y8C/151350.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.AYMAN LIVE TV.| Hawacom " tvg-logo="https://www.hawacom.tv/android-chrome-256x256.png" group-title="AYMAN LIVE TV",|.AYMAN LIVE TV.| Hawacom 
+http://tv.pro-ott.com:25443/live/V19fsVws2u9du/i1eCJK2Y8C/151351.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="LB: Aghani TV (Lebanon)" tvg-logo="" group-title="LEBANON TV",LB: Aghani TV (Lebanon)
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/187523
+#EXTINF:-1 tvg-id="" tvg-name="LB : LBC Lebanon" tvg-logo="" group-title="LEBANON TV",LB : LBC Lebanon
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/187524
+#EXTINF:-1 tvg-id="" tvg-name="AR: MTV Lebanon ᴴᴰ" tvg-logo="" group-title="LEBANON TV",AR: MTV Lebanon ᴴᴰ
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/187525
+#EXTINF:-1 tvg-id="" tvg-name="LB: MTV Lebanon ᴴᴰ" tvg-logo="" group-title="LEBANON TV",LB: MTV Lebanon ᴴᴰ
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/187526
+#EXTINF:-1 tvg-id="" tvg-name="LB: NOUR MARIAM" tvg-logo="" group-title="LEBANON TV",LB: NOUR MARIAM
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/187527
+#EXTINF:-1 tvg-id="" tvg-name="BN: NOURSAT TV" tvg-logo="" group-title="LEBANON TV",BN: NOURSAT TV
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/187528
+#EXTINF:-1 tvg-id="" tvg-name="AR: NBN TV" tvg-logo="" group-title="LEBANON TV",AR: NBN TV
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/187529
+#EXTINF:-1 tvg-id="" tvg-name="AR: Nabaa" tvg-logo="" group-title="LEBANON TV",AR: Nabaa
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/187530
+#EXTINF:-1 tvg-id="" tvg-name="AR: AL ALAM NEWS" tvg-logo="" group-title="LEBANON TV",AR: AL ALAM NEWS
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/187531
+#EXTINF:-1 tvg-id="" tvg-name="AR: Al Aan TV" tvg-logo="" group-title="LEBANON TV",AR: Al Aan TV
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/187532
+#EXTINF:-1 tvg-id="" tvg-name="LB: LBC International" tvg-logo="" group-title="LEBANON TV",LB: LBC International
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/187533
+#EXTINF:-1 tvg-id="" tvg-name="LB: Tele Liban" tvg-logo="" group-title="LEBANON TV",LB: Tele Liban
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/187534
+#EXTINF:-1 tvg-id="" tvg-name="LB: Al Mayadeen" tvg-logo="" group-title="LEBANON TV",LB: Al Mayadeen
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/187535
+#EXTINF:-1 tvg-id="" tvg-name="LB: Al Manar" tvg-logo="" group-title="LEBANON TV",LB: Al Manar
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/187536
+#EXTINF:-1 tvg-id="" tvg-name="LB: OTV Libanon" tvg-logo="" group-title="LEBANON TV",LB: OTV Libanon
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/187537
+#EXTINF:-1 tvg-id="" tvg-name="LB : Al Jadeed TV ᴴᴰ" tvg-logo="" group-title="LEBANON TV",LB : Al Jadeed TV ᴴᴰ
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/187538
+#EXTINF:-1 tvg-id="" tvg-name="AR: Al Manar TV ᴴᴰ" tvg-logo="" group-title="LEBANON TV",AR: Al Manar TV ᴴᴰ
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/187539
+#EXTINF:-1 tvg-id="" tvg-name="NEWS|  AL Mayadeen HD" tvg-logo="" group-title="LEBANON TV",NEWS|  AL Mayadeen HD
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/187540
+#EXTINF:-1 tvg-id="" tvg-name="NEWS|  Al Manar HD" tvg-logo="" group-title="LEBANON TV",NEWS|  Al Manar HD
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/187541
+#EXTINF:-1 tvg-id="" tvg-name="LEB: AL MAYADEN" tvg-logo="" group-title="LEBANON TV",LEB: AL MAYADEN
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/187542
+#EXTINF:-1 tvg-id="" tvg-name="LB: One TV" tvg-logo="" group-title="LEBANON TV",LB: One TV
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/187543
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="---??| BEIN SPORT |??---" tvg-logo="http://one-iptv.com/imageslogo/pu_beinsportsnews.png" group-title="BEIN SPORTS MENA",---??| BEIN #EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS NEWS HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/NEWS_DIGITAL_Mono.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS NEWS HD
+#EXTINF:-1 tvg-id="" tvg-name="|.AR.| BEIN SPORTS GLOBAL FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/BeIN_SPORTS_Global_logo_2017.jpg" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS GLOBAL FHD
+http://vip.fr3tv.com:25443/live/6596554854/GT16NDE958/92511.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS 1 SD" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F892%2Fbein-sports-premium-1.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 1 SD
+http://vip.fr3tv.com:25443/live/6596554854/GT16NDE958/32008.ts
+#EXTINF:-1 tvg-id="BeinSportsPremium1.qa" tvg-name="|.AR.| BEIN SPORTS 1 HD" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F892%2Fbein-sports-premium-1.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 1 HD
+http://vip.fr3tv.com:25443/live/6596554854/GT16NDE958/9146.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS 1 FHD" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F892%2Fbein-sports-premium-1.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 1 FHD
+http://vip.fr3tv.com:25443/live/6596554854/GT16NDE958/9147.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS 1 FHD HEVC" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F892%2Fbein-sports-premium-1.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 1 FHD HEVC
+http://vip.fr3tv.com:25443/live/6596554854/GT16NDE958/39224.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.AR.| BEIN SPORTS 1 FHD 4K" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F892%2Fbein-sports-premium-1.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 1 FHD 4K
+http://vip.fr3tv.com:25443/live/6596554854/GT16NDE958/30756.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS  2 SD" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F893%2Fbein-sports-premium-1.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS  2 SD
+http://vip.fr3tv.com:25443/live/6596554854/GT16NDE958/32007.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS 2 SD" tvg-logo="http://one-iptv.com/imageslogo/BeinSports2.fr.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 2 SD
+http://vip.fr3tv.com:25443/live/6596554854/GT16NDE958/32014.ts
+#EXTINF:-1 tvg-id="BeinSportsPremium2.qa" tvg-name="|.AR.| BEIN SPORTS 2 HD" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F893%2Fbein-sports-premium-1.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 2 HD
+http://vip.fr3tv.com:25443/live/6596554854/GT16NDE958/9148.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS 2 FHD" tvg-logo="http://one-iptv.com/imageslogo/BeinSports2.fr.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 2 FHD
+http://vip.fr3tv.com:25443/live/6596554854/GT16NDE958/9135.ts
+#EXTINF:-1 tvg-id="beINSports2Ar.qa" tvg-name="|.AR.| BEIN SPORTS 2 FHD 4K" tvg-logo="http://one-iptv.com/imageslogo/BeinSports2.fr.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 2 FHD 4K
+http://vip.fr3tv.com:25443/live/6596554854/GT16NDE958/30751.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.AR.| BEIN SPORTS  2 FHD 4K" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F893%2Fbein-sports-premium-1.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS  2 FHD 4K
+http://vip.fr3tv.com:25443/live/6596554854/GT16NDE958/30757.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS 2 FHD HEVC" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F893%2Fbein-sports-premium-1.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 2 FHD HEVC
+http://vip.fr3tv.com:25443/live/6596554854/GT16NDE958/39225.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS 3 SD" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F894%2Fbein-sports-premium-1.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 3 SD
+http://vip.fr3tv.com:25443/live/6596554854/GT16NDE958/32006.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS 3 HD" tvg-logo="http://one-iptv.com/imageslogo/beINSports3.tr.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 3 HD
+http://vip.fr3tv.com:25443/live/6596554854/GT16NDE958/9136.ts
+#EXTINF:-1 tvg-id="BeinSportsPremium3.qa" tvg-name="|.AR.| BEIN SPORTS 3 FHD" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F894%2Fbein-sports-premium-1.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 3 FHD
+http://vip.fr3tv.com:25443/live/6596554854/GT16NDE958/9151.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.AR.| BEIN SPORTS 3 FHD 4K" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F894%2Fbein-sports-premium-1.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 3 FHD 4K
+http://vip.fr3tv.com:25443/live/6596554854/GT16NDE958/30758.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS 3 FHD HEVC" tvg-logo="http://one-iptv.com/imageslogo/beINSports3.tr.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 3 FHD HEVC
+http://vip.fr3tv.com:25443/live/6596554854/GT16NDE958/28267.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS 4 SD" tvg-logo="http://one-iptv.com/imageslogo/beINSports4.tr.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 4 SD
+http://vip.fr3tv.com:25443/live/6596554854/GT16NDE958/32012.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS 4 HD" tvg-logo="http://one-iptv.com/imageslogo/beINSports4.tr.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 4 HD
+http://vip.fr3tv.com:25443/live/6596554854/GT16NDE958/9138.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS 4 FHD" tvg-logo="http://one-iptv.com/imageslogo/beINSports4.tr.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 4 FHD
+http://vip.fr3tv.com:25443/live/6596554854/GT16NDE958/103764.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS 4 FHD 4K" tvg-logo="http://one-iptv.com/imageslogo/beINSports4.tr.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 4 FHD 4K
+http://vip.fr3tv.com:25443/live/6596554854/GT16NDE958/30755.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS 4 FHD HEVC" tvg-logo="http://one-iptv.com/imageslogo/beINSports4.tr.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 4 FHD HEVC
+http://vip.fr3tv.com:25443/live/6596554854/GT16NDE958/28268.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS 5 SD" tvg-logo="http://one-iptv.com/imageslogo/beINSports5.us.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 5 SD
+http://vip.fr3tv.com:25443/live/6596554854/GT16NDE958/32011.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS 5 HD" tvg-logo="http://one-iptv.com/imageslogo/beINSports5.us.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 5 HD
+http://vip.fr3tv.com:25443/live/6596554854/GT16NDE958/9140.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS 5 FHD" tvg-logo="http://one-iptv.com/imageslogo/beINSports5.us.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 5 FHD
+http://vip.fr3tv.com:25443/live/6596554854/GT16NDE958/9141.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS 5 FHD 4K" tvg-logo="http://one-iptv.com/imageslogo/beINSports5.us.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 5 FHD 4K
+http://vip.fr3tv.com:25443/live/6596554854/GT16NDE958/30754.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS 5 FHD HEVC" tvg-logo="http://one-iptv.com/imageslogo/beINSports5.us.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 5 FHD HEVC
+http://vip.fr3tv.com:25443/live/6596554854/GT16NDE958/28269.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS 6 HD" tvg-logo="http://one-iptv.com/imageslogo/beINSports6.us.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 6 HD
+http://vip.fr3tv.com:25443/live/6596554854/GT16NDE958/9142.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS 6 FHD" tvg-logo="http://one-iptv.com/imageslogo/beINSports6.us.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 6 FHD
+http://vip.fr3tv.com:25443/live/6596554854/GT16NDE958/9143.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS 6 FHD 4K" tvg-logo="http://one-iptv.com/imageslogo/beINSports6.us.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 6 FHD 4K
+http://vip.fr3tv.com:25443/live/6596554854/GT16NDE958/30759.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS 6 FHD HEVC" tvg-logo="http://one-iptv.com/imageslogo/beINSports6.us.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 6 FHD HEVC
+http://vip.fr3tv.com:25443/live/6596554854/GT16NDE958/28270.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS 7 SD" tvg-logo="http://one-iptv.com/imageslogo/beINSports7.us.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 7 SD
+http://vip.fr3tv.com:25443/live/6596554854/GT16NDE958/32009.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS 7 HD" tvg-logo="http://one-iptv.com/imageslogo/beINSports7.us.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 7 HD
+http://vip.fr3tv.com:25443/live/6596554854/GT16NDE958/9144.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS 7 FHD" tvg-logo="http://one-iptv.com/imageslogo/beINSports7.us.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 7 FHD
+http://vip.fr3tv.com:25443/live/6596554854/GT16NDE958/9145.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS 7 FHD 4K" tvg-logo="http://one-iptv.com/imageslogo/beINSports7.us.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 7 FHD 4K
+http://vip.fr3tv.com:25443/live/6596554854/GT16NDE958/30760.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS 7 FHD HEVC" tvg-logo="http://one-iptv.com/imageslogo/beINSports7.us.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 7 FHD HEVC
+http://vip.fr3tv.com:25443/live/6596554854/GT16NDE958/28271.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS ENGLISH 1 HD" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F213%2Fbein-sports-english-1.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS ENGLISH 1 HD
+http://vip.fr3tv.com:25443/live/6596554854/GT16NDE958/9153.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS ENGLISH 2 HD" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F214%2Fbein-sports-english-1.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS ENGLISH 2 HD
+http://vip.fr3tv.com:25443/live/6596554854/GT16NDE958/9154.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS ENGLISH 3 HD" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F215%2Fbein-sports-english-1.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS ENGLISH 3 HD
+http://vip.fr3tv.com:25443/live/6596554854/GT16NDE958/9155.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.AR.| BEIN SPORTS XTRA 1 HD" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F895%2Fbein-sports-xtra-1.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS XTRA 1 HD
+http://vip.fr3tv.com:25443/live/6596554854/GT16NDE958/119957.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.AR.| BEIN SPORTS XTRA 2 HD" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F896%2Fbein-sports-xtra-1.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS XTRA 2 HD
+http://vip.fr3tv.com:25443/live/6596554854/GT16NDE958/119958.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.AR.| BEIN SPORTS FRENCH 1 HD" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F216%2Fbein-sports-french-1.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS FRENCH 1 HD
+http://vip.fr3tv.com:25443/live/6596554854/GT16NDE958/124099.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.AR.| BEIN SPORTS FRENCH 2 HD" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F211%2Fbein-sports-french-1.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS FRENCH 2 HD
+http://vip.fr3tv.com:25443/live/6596554854/GT16NDE958/124097.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.AR.| BEIN SPORTS FRENCH 3 HD" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F362%2Fbein-sports-french-1.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS FRENCH 3 HD
+http://vip.fr3tv.com:25443/live/6596554854/GT16NDE958/124098.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| BEIN SPORTS 6 SD" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/NEW_beIN-SPORTS-MAX-06.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 6 SD
+http://vip.fr3tv.com:25443/live/6596554854/GT16NDE958/124095.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.AR.| BEIN SPORTS 8 SD" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS8.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 8 SD
+http://vip.fr3tv.com:25443/live/6596554854/GT16NDE958/279954.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.AR.| BEIN SPORTS 8 HD" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS8.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 8 HD
+http://vip.fr3tv.com:25443/live/6596554854/GT16NDE958/279955.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.AR.| BEIN SPORTS 8 FHD" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS8.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 8 FHD
+http://vip.fr3tv.com:25443/live/6596554854/GT16NDE958/279956.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.AR.| BEIN SPORTS 8 FHD 4K" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS8.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 8 FHD 4K
+http://vip.fr3tv.com:25443/live/6596554854/GT16NDE958/279961.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.AR.| BEIN SPORTS 8 FHD HEVC" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS8.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 8 FHD HEVC
+http://vip.fr3tv.com:25443/live/6596554854/GT16NDE958/279962.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 4K 1" tvg-logo="" group-title="BEIN SPORTS",beIN SPORTS 4K 1
+http://livetvbox.live:8080/live/Derrick/Derrick/274122.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 4K 2" tvg-logo="" group-title="BEIN SPORTS",beIN SPORTS 4K 2
+http://livetvbox.live:8080/live/Derrick/Derrick/274123.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 4K 3" tvg-logo="" group-title="BEIN SPORTS",beIN SPORTS 4K 3
+http://livetvbox.live:8080/live/Derrick/Derrick/274124.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 4K 4" tvg-logo="" group-title="BEIN SPORTS",beIN SPORTS 4K 4
+http://livetvbox.live:8080/live/Derrick/Derrick/274125.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 4K 5" tvg-logo="" group-title="BEIN SPORTS",beIN SPORTS 4K 5
+http://livetvbox.live:8080/live/Derrick/Derrick/274126.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 4K 6" tvg-logo="" group-title="BEIN SPORTS",beIN SPORTS 4K 6
+http://livetvbox.live:8080/live/Derrick/Derrick/274127.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 4K 7" tvg-logo="" group-title="BEIN SPORTS",beIN SPORTS 4K 7
+http://livetvbox.live:8080/live/Derrick/Derrick/274128.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 4K 8" tvg-logo="" group-title="BEIN SPORTS",beIN Sports 4K 8
+http://livetvbox.live:8080/live/Derrick/Derrick/274129.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 4K 9" tvg-logo="" group-title="BEIN SPORTS",beIN SPORTS 4K 9
+http://livetvbox.live:8080/live/Derrick/Derrick/274130.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Xtra 4K 1" tvg-logo="" group-title="BEIN SPORTS",Bein Xtra 4K 1
+http://livetvbox.live:8080/live/Derrick/Derrick/274131.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Xtra 4K 2" tvg-logo="" group-title="BEIN SPORTS",Bein Xtra 4K 2
+http://livetvbox.live:8080/live/Derrick/Derrick/274132.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Xtra 4K 3" tvg-logo="" group-title="BEIN SPORTS",beIN Xtra 4K 3
+http://livetvbox.live:8080/live/Derrick/Derrick/274133.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 4K" tvg-logo="" group-title="BEIN SPORTS",Bein Sport AFC 4K
+http://livetvbox.live:8080/live/Derrick/Derrick/274134.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="" group-title="BEIN SPORTS",Bein Sport AFC 1 4K
+http://livetvbox.live:8080/live/Derrick/Derrick/274135.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 2 4K" tvg-logo="" group-title="BEIN SPORTS",Bein Sport AFC 2 4K
+http://livetvbox.live:8080/live/Derrick/Derrick/274136.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 3 4K" tvg-logo="" group-title="BEIN SPORTS",Bein Sport AFC 3 4K
+http://livetvbox.live:8080/live/Derrick/Derrick/274137.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 4 4K" tvg-logo="" group-title="BEIN SPORTS",Bein Sport AFC 4 4K
+http://livetvbox.live:8080/live/Derrick/Derrick/274138.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 5 4K" tvg-logo="" group-title="BEIN SPORTS",Bein Sport AFC 5 4K
+http://livetvbox.live:8080/live/Derrick/Derrick/274139.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport English 2 4k" tvg-logo="" group-title="BEIN SPORTS",beIN Sport English 2 4k
+http://livetvbox.live:8080/live/Derrick/Derrick/274140.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport English 1 4k" tvg-logo="" group-title="BEIN SPORTS",beIN Sport English 1 4k
+http://livetvbox.live:8080/live/Derrick/Derrick/274141.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport French 4k 1" tvg-logo="" group-title="BEIN SPORTS",beIN Sport French 4k 1
+http://livetvbox.live:8080/live/Derrick/Derrick/274142.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport French 4k 2" tvg-logo="" group-title="BEIN SPORTS",beIN Sport French 4k 2
+http://livetvbox.live:8080/live/Derrick/Derrick/274143.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport NBA 4K" tvg-logo="" group-title="BEIN SPORTS",Bein Sport NBA 4K
+http://livetvbox.live:8080/live/Derrick/Derrick/274144.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN MOVIES 4K 1" tvg-logo="" group-title="BEIN MOVIES",beIN MOVIES 4K 1
+http://livetvbox.live:8080/live/Derrick/Derrick/274145.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN MOVIES 4K 2" tvg-logo="" group-title="BEIN MOVIES",beIN MOVIES 4K 2
+http://livetvbox.live:8080/live/Derrick/Derrick/274146.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN MOVIES 4K 3" tvg-logo="" group-title="BEIN MOVIES",beIN MOVIES 4K 3
+http://livetvbox.live:8080/live/Derrick/Derrick/274147.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN MOVIES 4K 4" tvg-logo="" group-title="BEIN MOVIES",beIN MOVIES 4K 4
+http://livetvbox.live:8080/live/Derrick/Derrick/274148.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN SERIES 4K 1" tvg-logo="" group-title="BEIN MOVIES",beIN SERIES 4K 1
+http://livetvbox.live:8080/live/Derrick/Derrick/274149.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN SERIES 4K 2" tvg-logo="" group-title="BEIN MOVIES",beIN SERIES 4K 2
+http://livetvbox.live:8080/live/Derrick/Derrick/274150.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN DRAMA 4K" tvg-logo="" group-title="BEIN MOVIES",beIN DRAMA 4K
+http://livetvbox.live:8080/live/Derrick/Derrick/274151.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein FOX MOVIES 4K" tvg-logo="" group-title="BEIN MOVIES",Bein FOX MOVIES 4K
+http://livetvbox.live:8080/live/Derrick/Derrick/274152.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein FOX MOV ACTION 4K" tvg-logo="" group-title="BEIN MOVIES",Bein FOX MOV ACTION 4K
+http://livetvbox.live:8080/live/Derrick/Derrick/274153.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein FOX LIFE 4K" tvg-logo="" group-title="BEIN MOVIES",Bein FOX LIFE 4K
+http://livetvbox.live:8080/live/Derrick/Derrick/274154.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein BBC EARTH 4K" tvg-logo="" group-title="BEIN MOVIES",Bein BBC EARTH 4K
+http://livetvbox.live:8080/live/Derrick/Derrick/274155.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein GORMENT 4K" tvg-logo="" group-title="BEIN MOVIES",Bein GORMENT 4K
+http://livetvbox.live:8080/live/Derrick/Derrick/274156.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein FATAFEAT 4K" tvg-logo="" group-title="BEIN MOVIES",Bein FATAFEAT 4K
+http://livetvbox.live:8080/live/Derrick/Derrick/274157.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein BARAEAM 4K" tvg-logo="" group-title="BEIN MOVIES",Bein BARAEAM 4K
+http://livetvbox.live:8080/live/Derrick/Derrick/274158.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein JEEM 4K" tvg-logo="" group-title="BEIN MOVIES",Bein JEEM 4K
+http://livetvbox.live:8080/live/Derrick/Derrick/274159.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Global HD" tvg-logo="" group-title="BEIN MOVIES",Bein Global HD
+http://livetvbox.live:8080/live/Derrick/Derrick/274160.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport News HD" tvg-logo="" group-title="BEIN SPORTS",Bein Sport News HD
+http://livetvbox.live:8080/live/Derrick/Derrick/274161.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports HD1 1080" tvg-logo="" group-title="BEIN SPORTS",Bein Sports HD1 1080
+http://livetvbox.live:8080/live/Derrick/Derrick/274162.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports HD2 1080" tvg-logo="" group-title="BEIN SPORTS",Bein Sports HD2 1080
+http://livetvbox.live:8080/live/Derrick/Derrick/274163.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports HD3 1080" tvg-logo="" group-title="BEIN SPORTS",Bein Sports HD3 1080
+http://livetvbox.live:8080/live/Derrick/Derrick/274164.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports HD4 1080" tvg-logo="" group-title="BEIN SPORTS",Bein Sports HD4 1080
+http://livetvbox.live:8080/live/Derrick/Derrick/274165.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports HD5 1080" tvg-logo="" group-title="BEIN SPORTS",Bein Sports HD5 1080
+http://livetvbox.live:8080/live/Derrick/Derrick/274166.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports HD6 1080" tvg-logo="" group-title="BEIN SPORTS",Bein Sports HD6 1080
+http://livetvbox.live:8080/live/Derrick/Derrick/274167.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports HD7 1080" tvg-logo="" group-title="BEIN SPORTS",Bein Sports HD7 1080
+http://livetvbox.live:8080/live/Derrick/Derrick/274168.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports HD8 1080" tvg-logo="" group-title="BEIN SPORTS",Bein Sports HD8 1080
+http://livetvbox.live:8080/live/Derrick/Derrick/274169.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports HD9 1080" tvg-logo="" group-title="BEIN SPORTS",Bein Sports HD9 1080
+http://livetvbox.live:8080/live/Derrick/Derrick/274170.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Xtra HD3 1080" tvg-logo="" group-title="BEIN SPORTS",Bein Xtra HD3 1080
+http://livetvbox.live:8080/live/Derrick/Derrick/274171.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports English 1 1080" tvg-logo="" group-title="BEIN SPORTS",Bein Sports English 1 1080
+http://livetvbox.live:8080/live/Derrick/Derrick/274172.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports English 2 1080" tvg-logo="" group-title="BEIN SPORTS",Bein Sports English 2 1080
+http://livetvbox.live:8080/live/Derrick/Derrick/274173.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports French HD1 1080" tvg-logo="" group-title="BEIN SPORTS",Bein Sports French HD1 1080
+http://livetvbox.live:8080/live/Derrick/Derrick/274174.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports French HD2 1080" tvg-logo="" group-title="BEIN SPORTS",Bein Sports French HD2 1080
+http://livetvbox.live:8080/live/Derrick/Derrick/274175.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport HD1 720" tvg-logo="" group-title="BEIN SPORTS",Bein Sport HD1 720
+http://livetvbox.live:8080/live/Derrick/Derrick/274176.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport HD2 720" tvg-logo="" group-title="BEIN SPORTS",Bein Sport HD2 720
+http://livetvbox.live:8080/live/Derrick/Derrick/274177.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport HD3 720" tvg-logo="" group-title="BEIN SPORTS",Bein Sport HD3 720
+http://livetvbox.live:8080/live/Derrick/Derrick/274178.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport HD4 720" tvg-logo="" group-title="BEIN SPORTS",Bein Sport HD4 720
+http://livetvbox.live:8080/live/Derrick/Derrick/274179.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport HD5 720" tvg-logo="" group-title="BEIN SPORTS",Bein Sport HD5 720
+http://livetvbox.live:8080/live/Derrick/Derrick/274180.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport HD6 720" tvg-logo="" group-title="BEIN SPORTS",Bein Sport HD6 720
+http://livetvbox.live:8080/live/Derrick/Derrick/274181.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport HD7 720" tvg-logo="" group-title="BEIN SPORTS",Bein Sport HD7 720
+http://livetvbox.live:8080/live/Derrick/Derrick/274182.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport HD8 720" tvg-logo="" group-title="BEIN SPORTS",Bein Sport HD8 720
+http://livetvbox.live:8080/live/Derrick/Derrick/274183.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport HD9 720" tvg-logo="" group-title="BEIN SPORTS",Bein Sport HD9 720
+http://livetvbox.live:8080/live/Derrick/Derrick/274184.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Xtra HD1 720" tvg-logo="" group-title="BEIN SPORTS",Bein Xtra HD1 720
+http://livetvbox.live:8080/live/Derrick/Derrick/274185.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Xtra HD2 720" tvg-logo="" group-title="BEIN SPORTS",Bein Xtra HD2 720
+http://livetvbox.live:8080/live/Derrick/Derrick/274186.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Xtra HD3 720" tvg-logo="" group-title="BEIN SPORTS",Bein Xtra HD3 720
+http://livetvbox.live:8080/live/Derrick/Derrick/274187.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC HD" tvg-logo="" group-title="BEIN SPORTS",Bein Sport AFC HD
+http://livetvbox.live:8080/live/Derrick/Derrick/274188.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 HD" tvg-logo="" group-title="BEIN SPORTS",Bein Sport AFC 1 HD
+http://livetvbox.live:8080/live/Derrick/Derrick/274189.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 2 HD" tvg-logo="" group-title="BEIN SPORTS",Bein Sport AFC 2 HD
+http://livetvbox.live:8080/live/Derrick/Derrick/274190.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 3 HD" tvg-logo="" group-title="BEIN SPORTS",Bein Sport AFC 3 HD
+http://livetvbox.live:8080/live/Derrick/Derrick/274191.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 4 HD" tvg-logo="" group-title="BEIN SPORTS",Bein Sport AFC 4 HD
+http://livetvbox.live:8080/live/Derrick/Derrick/274192.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 5 HD" tvg-logo="" group-title="BEIN SPORTS",Bein Sport AFC 5 HD
+http://livetvbox.live:8080/live/Derrick/Derrick/274193.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport English 1 720" tvg-logo="" group-title="BEIN SPORTS",Bein Sport English 1 720
+http://livetvbox.live:8080/live/Derrick/Derrick/274194.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport English 2 720" tvg-logo="" group-title="BEIN SPORTS",Bein Sport English 2 720
+http://livetvbox.live:8080/live/Derrick/Derrick/274195.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport French HD1 720" tvg-logo="" group-title="BEIN SPORTS",Bein Sport French HD1 720
+http://livetvbox.live:8080/live/Derrick/Derrick/274196.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport French HD2 720" tvg-logo="" group-title="BEIN SPORTS",Bein Sport French HD2 720
+http://livetvbox.live:8080/live/Derrick/Derrick/274197.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport NBA HD" tvg-logo="" group-title="BEIN SPORTS",Bein Sport NBA HD
+http://livetvbox.live:8080/live/Derrick/Derrick/274198.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Movies HD1" tvg-logo="" group-title="BEIN MOVIES",Bein Movies HD1
+http://livetvbox.live:8080/live/Derrick/Derrick/274199.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Bein Movies HD2" tvg-logo="" group-title="BEIN MOVIES",Bein Movies HD2
+http://livetvbox.live:8080/live/Derrick/Derrick/274200.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Movies HD3" tvg-logo="" group-title="BEIN MOVIES",Bein Movies HD3
+http://livetvbox.live:8080/live/Derrick/Derrick/274201.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Movies HD4" tvg-logo="" group-title="BEIN MOVIES",Bein Movies HD4
+http://livetvbox.live:8080/live/Derrick/Derrick/274202.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Series HD1" tvg-logo="" group-title="BEIN MOVIES",Bein Series HD1
+http://livetvbox.live:8080/live/Derrick/Derrick/274203.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Series HD2" tvg-logo="" group-title="BEIN MOVIES",Bein Series HD2
+http://livetvbox.live:8080/live/Derrick/Derrick/274204.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Drama HD1" tvg-logo="" group-title="BEIN MOVIES",Bein Drama HD1
+http://livetvbox.live:8080/live/Derrick/Derrick/274205.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Fox Movies HD" tvg-logo="" group-title="BEIN MOVIES",Bein Fox Movies HD
+http://livetvbox.live:8080/live/Derrick/Derrick/274206.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Fox Action Movies HD" tvg-logo="" group-title="BEIN MOVIES",Bein Fox Action Movies HD
+http://livetvbox.live:8080/live/Derrick/Derrick/274207.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Fox Life HD" tvg-logo="" group-title="BEIN MOVIES",Bein Fox Life HD
+http://livetvbox.live:8080/live/Derrick/Derrick/274208.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein jeem HD" tvg-logo="" group-title="BEIN MOVIES",Bein jeem HD
+http://livetvbox.live:8080/live/Derrick/Derrick/274209.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Baraem HD" tvg-logo="" group-title="BEIN MOVIES",Bein Baraem HD
+http://livetvbox.live:8080/live/Derrick/Derrick/274210.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein BBC Earth HD" tvg-logo="" group-title="BEIN MOVIES",Bein BBC Earth HD
+http://livetvbox.live:8080/live/Derrick/Derrick/274211.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Fatafeat" tvg-logo="" group-title="BEIN MOVIES",Bein Fatafeat
+http://livetvbox.live:8080/live/Derrick/Derrick/274212.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Gourmet HD" tvg-logo="" group-title="BEIN MOVIES",Bein Gourmet HD
+http://livetvbox.live:8080/live/Derrick/Derrick/274213.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport SD1" tvg-logo="" group-title="BEIN SPORTS",Bein Sport SD1
+http://livetvbox.live:8080/live/Derrick/Derrick/274214.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport SD2" tvg-logo="" group-title="BEIN SPORTS",Bein Sport SD2
+http://livetvbox.live:8080/live/Derrick/Derrick/274215.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport SD3" tvg-logo="" group-title="BEIN SPORTS",Bein Sport SD3
+http://livetvbox.live:8080/live/Derrick/Derrick/274216.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport SD4" tvg-logo="" group-title="BEIN SPORTS",Bein Sport SD4
+http://livetvbox.live:8080/live/Derrick/Derrick/274217.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport SD5" tvg-logo="" group-title="BEIN SPORTS",Bein Sport SD5
+http://livetvbox.live:8080/live/Derrick/Derrick/274218.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport SD6" tvg-logo="" group-title="BEIN SPORTS",Bein Sport SD6
+http://livetvbox.live:8080/live/Derrick/Derrick/274219.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport SD7" tvg-logo="" group-title="BEIN SPORTS",Bein Sport SD7
+http://livetvbox.live:8080/live/Derrick/Derrick/274220.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport SD8" tvg-logo="" group-title="BEIN SPORTS",Bein Sport SD8
+http://livetvbox.live:8080/live/Derrick/Derrick/274221.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport SD9" tvg-logo="" group-title="BEIN SPORTS",Bein Sport SD9
+http://livetvbox.live:8080/live/Derrick/Derrick/274222.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Xtra SD1" tvg-logo="" group-title="BEIN SPORTS",Bein Xtra SD1
+http://livetvbox.live:8080/live/Derrick/Derrick/274223.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Xtra SD2" tvg-logo="" group-title="BEIN SPORTS",Bein Xtra SD2
+http://livetvbox.live:8080/live/Derrick/Derrick/274224.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Xtra SD3" tvg-logo="" group-title="BEIN SPORTS",Bein Xtra SD3
+http://livetvbox.live:8080/live/Derrick/Derrick/274225.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC SD" tvg-logo="" group-title="BEIN SPORTS",Bein Sport AFC SD
+http://livetvbox.live:8080/live/Derrick/Derrick/274226.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 SD" tvg-logo="" group-title="BEIN SPORTS",Bein Sport AFC 1 SD
+http://livetvbox.live:8080/live/Derrick/Derrick/274227.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 2 SD" tvg-logo="" group-title="BEIN SPORTS",Bein Sport AFC 2 SD
+http://livetvbox.live:8080/live/Derrick/Derrick/274228.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 3 SD" tvg-logo="" group-title="BEIN SPORTS",Bein Sport AFC 3 SD
+http://livetvbox.live:8080/live/Derrick/Derrick/274229.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 4 SD" tvg-logo="" group-title="BEIN SPORTS",Bein Sport AFC 4 SD
+http://livetvbox.live:8080/live/Derrick/Derrick/274230.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 5 SD" tvg-logo="" group-title="BEIN SPORTS",Bein Sport AFC 5 SD
+http://livetvbox.live:8080/live/Derrick/Derrick/274231.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport English 1 SD" tvg-logo="" group-title="BEIN SPORTS",Bein Sport English 1 SD
+http://livetvbox.live:8080/live/Derrick/Derrick/274232.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport English 2 SD" tvg-logo="" group-title="BEIN SPORTS",Bein Sport English 2 SD
+http://livetvbox.live:8080/live/Derrick/Derrick/274233.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport French SD1" tvg-logo="" group-title="BEIN SPORTS",Bein Sport French SD1
+http://livetvbox.live:8080/live/Derrick/Derrick/274234.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport French SD2" tvg-logo="" group-title="BEIN SPORTS",Bein Sport French SD2
+http://livetvbox.live:8080/live/Derrick/Derrick/274235.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Alkass 1 HD" tvg-logo="" group-title="BEIN SPORTS",BeIN Alkass 1 HD
+http://livetvbox.live:8080/live/Derrick/Derrick/274236.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Alkass 2 HD" tvg-logo="" group-title="BEIN SPORTS",BeIN Alkass 2 HD
+http://livetvbox.live:8080/live/Derrick/Derrick/274237.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Alkass 3 HD" tvg-logo="" group-title="BEIN SPORTS",BeIN Alkass 3 HD
+http://livetvbox.live:8080/live/Derrick/Derrick/274238.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Alkass 4 HD" tvg-logo="" group-title="BEIN SPORTS",BeIN Alkass 4 HD
+http://livetvbox.live:8080/live/Derrick/Derrick/274239.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Alkass 5 HD" tvg-logo="" group-title="BEIN SPORTS",BeIN Alkass 5 HD
+http://livetvbox.live:8080/live/Derrick/Derrick/274240.ts
+#EXTINF:-1 tvg-id="" tvg-name="|Shahid| SSC NEWS" tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/SPORT-INT/SSCHD.png" group-title="ARABIC SPORTS",|Shahid| SSC NEWS
+http://livetvbox.live:8080/live/Derrick/Derrick/123087.ts
+#EXTINF:-1 tvg-id="" tvg-name="|Shahid| SSC 1 HD" tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/SPORT-INT/SSCHD.png" group-title="ARABIC SPORTS",|Shahid| SSC 1 HD
+http://livetvbox.live:8080/live/Derrick/Derrick/123089.ts
+#EXTINF:-1 tvg-id="" tvg-name="|Shahid| SSC 1 HD 1080P" tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/SPORT-INT/SSCHD.png" group-title="ARABIC SPORTS",|Shahid| SSC 1 HD 1080P
+http://livetvbox.live:8080/live/Derrick/Derrick/123090.ts
+#EXTINF:-1 tvg-id="" tvg-name="|Shahid| SSC 2 HD" tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/SPORT-INT/SSCHD.png" group-title="ARABIC SPORTS",|Shahid| SSC 2 HD
+http://livetvbox.live:8080/live/Derrick/Derrick/123091.ts
+#EXTINF:-1 tvg-id="" tvg-name="|Shahid| SSC 2 HD 1080P" tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/SPORT-INT/SSCHD.png" group-title="ARABIC SPORTS",|Shahid| SSC 2 HD 1080P
+http://livetvbox.live:8080/live/Derrick/Derrick/123092.ts
+#EXTINF:-1 tvg-id="" tvg-name="|Shahid| SSC 3 HD" tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/SPORT-INT/SSCHD.png" group-title="ARABIC SPORTS",|Shahid| SSC 3 HD
+http://livetvbox.live:8080/live/Derrick/Derrick/123093.ts
+#EXTINF:-1 tvg-id="" tvg-name="|Shahid| SSC 3 HD 1080P" tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/SPORT-INT/SSCHD.png" group-title="ARABIC SPORTS",|Shahid| SSC 3 HD 1080P
+http://livetvbox.live:8080/live/Derrick/Derrick/123094.ts
+#EXTINF:-1 tvg-id="" tvg-name="|Shahid| SSC 4 HD" tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/SPORT-INT/SSCHD.png" group-title="ARABIC SPORTS",|Shahid| SSC 4 HD
+http://livetvbox.live:8080/live/Derrick/Derrick/123095.ts
+#EXTINF:-1 tvg-id="" tvg-name="|Shahid| SSC 4 HD 1080P" tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/SPORT-INT/SSCHD.png" group-title="ARABIC SPORTS",|Shahid| SSC 4 HD 1080P
+http://livetvbox.live:8080/live/Derrick/Derrick/123096.ts
+#EXTINF:-1 tvg-id="" tvg-name="|Shahid| SSC 5 HD" tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/SPORT-INT/SSCHD.png" group-title="ARABIC SPORTS",|Shahid| SSC 5 HD
+http://livetvbox.live:8080/live/Derrick/Derrick/123097.ts
+#EXTINF:-1 tvg-id="" tvg-name="|Shahid| SSC 5 HD 1080P" tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/SPORT-INT/SSCHD.png" group-title="ARABIC SPORTS",|Shahid| SSC 5 HD 1080P
+http://livetvbox.live:8080/live/Derrick/Derrick/123098.ts
+#EXTINF:-1 tvg-id="" tvg-name="|Shahid| SSC 1 EXTRA HD" tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/SPORT-INT/SSCHD.png" group-title="ARABIC SPORTS",|Shahid| SSC 1 EXTRA HD
+http://livetvbox.live:8080/live/Derrick/Derrick/123099.ts
+#EXTINF:-1 tvg-id="" tvg-name="|Shahid| SSC 1 EXTRA HD 1080P" tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/SPORT-INT/SSCHD.png" group-title="ARABIC SPORTS",|Shahid| SSC 1 EXTRA HD 1080P
+http://livetvbox.live:8080/live/Derrick/Derrick/123100.ts
+#EXTINF:-1 tvg-id="" tvg-name="|Shahid| SSC 2 EXTRA HD" tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/SPORT-INT/SSCHD.png" group-title="ARABIC SPORTS",|Shahid| SSC 2 EXTRA HD
+http://livetvbox.live:8080/live/Derrick/Derrick/123101.ts
+#EXTINF:-1 tvg-id="" tvg-name="|Shahid| SSC 2 EXTRA HD 1080P" tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/SPORT-INT/SSCHD.png" group-title="ARABIC SPORTS",|Shahid| SSC 2 EXTRA HD 1080P
+http://livetvbox.live:8080/live/Derrick/Derrick/123102.ts
+#EXTINF:-1 tvg-id="" tvg-name="|Shahid| SSC 3 EXTRA HD" tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/SPORT-INT/SSCHD.png" group-title="ARABIC SPORTS",|Shahid| SSC 3 EXTRA HD
+http://livetvbox.live:8080/live/Derrick/Derrick/123103.ts
+#EXTINF:-1 tvg-id="" tvg-name="|Shahid| SSC 3 EXTRA HD 1080P" tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/SPORT-INT/SSCHD.png" group-title="ARABIC SPORTS",|Shahid| SSC 3 EXTRA HD 1080P
+http://livetvbox.live:8080/live/Derrick/Derrick/123104.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: Abu Dhabi Sports 1 HD" tvg-logo="" group-title="ARABIC SPORTS",Sport | Ar: Abu Dhabi Sports 1 HD
+http://livetvbox.live:8080/live/Derrick/Derrick/309006.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: Abu Dhabi Sports 2 HD" tvg-logo="" group-title="ARABIC SPORTS",Sport | Ar: Abu Dhabi Sports 2 HD
+http://livetvbox.live:8080/live/Derrick/Derrick/309007.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: KSA Sport 1 HD" tvg-logo="" group-title="ARABIC SPORTS",Sport | Ar: KSA Sport 1 HD
+http://livetvbox.live:8080/live/Derrick/Derrick/309008.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: KSA Sport 2 HD" tvg-logo="" group-title="ARABIC SPORTS",Sport | Ar: KSA Sport 2 HD
+http://livetvbox.live:8080/live/Derrick/Derrick/309009.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: KSA Sport 3 HD" tvg-logo="" group-title="ARABIC SPORTS",Sport | Ar: KSA Sport 3 HD
+http://livetvbox.live:8080/live/Derrick/Derrick/309010.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: Dubai Sport 1 HD" tvg-logo="" group-title="ARABIC SPORTS",Sport | Ar: Dubai Sport 1 HD
+http://livetvbox.live:8080/live/Derrick/Derrick/309011.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: Dubai Sport 2 HD" tvg-logo="" group-title="ARABIC SPORTS",Sport | Ar: Dubai Sport 2 HD
+http://livetvbox.live:8080/live/Derrick/Derrick/309012.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: Dubai Sport 3 HD" tvg-logo="" group-title="ARABIC SPORTS",Sport | Ar: Dubai Sport 3 HD
+http://livetvbox.live:8080/live/Derrick/Derrick/309013.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: On Time Sport HD 1" tvg-logo="" group-title="ARABIC SPORTS",Sport | Ar: On Time Sport HD 1
+http://livetvbox.live:8080/live/Derrick/Derrick/309014.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: On Time Sport HD 2" tvg-logo="" group-title="ARABIC SPORTS",Sport | Ar: On Time Sport HD 2
+http://livetvbox.live:8080/live/Derrick/Derrick/309015.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: Dubai Racing 1 HD" tvg-logo="" group-title="ARABIC SPORTS",Sport | Ar: Dubai Racing 1 HD
+http://livetvbox.live:8080/live/Derrick/Derrick/309016.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: Dubai Racing 2 HD" tvg-logo="" group-title="ARABIC SPORTS",Sport | Ar: Dubai Racing 2 HD
+http://livetvbox.live:8080/live/Derrick/Derrick/309017.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: Dubai Racing 3 HD" tvg-logo="" group-title="ARABIC SPORTS",Sport | Ar: Dubai Racing 3 HD
+http://livetvbox.live:8080/live/Derrick/Derrick/309018.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Alkass 1 HD" tvg-logo="" group-title="ARABIC SPORTS",BeIN Alkass 1 HD
+http://livetvbox.live:8080/live/Derrick/Derrick/309019.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Alkass 2 HD" tvg-logo="" group-title="ARABIC SPORTS",BeIN Alkass 2 HD
+http://livetvbox.live:8080/live/Derrick/Derrick/309020.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Alkass 3 HD" tvg-logo="" group-title="ARABIC SPORTS",BeIN Alkass 3 HD
+http://livetvbox.live:8080/live/Derrick/Derrick/309021.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Alkass 4 HD" tvg-logo="" group-title="ARABIC SPORTS",BeIN Alkass 4 HD
+http://livetvbox.live:8080/live/Derrick/Derrick/309022.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: Saudi 24 Sport" tvg-logo="" group-title="ARABIC SPORTS",Sport | Ar: Saudi 24 Sport
+http://livetvbox.live:8080/live/Derrick/Derrick/309023.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: Bahrain Sport 1 HD" tvg-logo="" group-title="ARABIC SPORTS",Sport | Ar: Bahrain Sport 1 HD
+http://livetvbox.live:8080/live/Derrick/Derrick/309024.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: Bahrain Sport 2 HD" tvg-logo="" group-title="ARABIC SPORTS",Sport | Ar: Bahrain Sport 2 HD
+http://livetvbox.live:8080/live/Derrick/Derrick/309025.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: Oman Sport HD" tvg-logo="" group-title="ARABIC SPORTS",Sport | Ar: Oman Sport HD
+http://livetvbox.live:8080/live/Derrick/Derrick/309026.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: Iraqia Sport HD" tvg-logo="" group-title="ARABIC SPORTS",Sport | Ar: Iraqia Sport HD
+http://livetvbox.live:8080/live/Derrick/Derrick/309027.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: Shabab Iraq Sport 1 HD" tvg-logo="" group-title="ARABIC SPORTS",Sport | Ar: Shabab Iraq Sport 1 HD
+http://livetvbox.live:8080/live/Derrick/Derrick/309028.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: Zamalek Sports" tvg-logo="" group-title="ARABIC SPORTS",Sport | Ar: Zamalek Sports
+http://livetvbox.live:8080/live/Derrick/Derrick/309029.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: Nile Sport" tvg-logo="" group-title="ARABIC SPORTS",Sport | Ar: Nile Sport
+http://livetvbox.live:8080/live/Derrick/Derrick/309030.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: Al Ahly TV" tvg-logo="" group-title="ARABIC SPORTS",Sport | Ar: Al Ahly TV
+http://livetvbox.live:8080/live/Derrick/Derrick/309031.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: Al Heddaf TV" tvg-logo="" group-title="ARABIC SPORTS",Sport | Ar: Al Heddaf TV
+http://livetvbox.live:8080/live/Derrick/Derrick/309032.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: Libya Sport 1" tvg-logo="" group-title="ARABIC SPORTS",Sport | Ar: Libya Sport 1
+http://livetvbox.live:8080/live/Derrick/Derrick/309033.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: Libya Sport 2" tvg-logo="" group-title="ARABIC SPORTS",Sport | Ar: Libya Sport 2
+http://livetvbox.live:8080/live/Derrick/Derrick/309034.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: Jordan Sport HD" tvg-logo="" group-title="ARABIC SPORTS",Sport | Ar: Jordan Sport HD
+http://livetvbox.live:8080/live/Derrick/Derrick/309035.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: Kuwait Sport HD" tvg-logo="" group-title="ARABIC SPORTS",Sport | Ar: Kuwait Sport HD
+http://livetvbox.live:8080/live/Derrick/Derrick/309036.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: Palestine Sport" tvg-logo="" group-title="ARABIC SPORTS",Sport | Ar: Palestine Sport
+http://livetvbox.live:8080/live/Derrick/Derrick/309037.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: Sharjah Sport HD" tvg-logo="" group-title="ARABIC SPORTS",Sport | Ar: Sharjah Sport HD
+http://livetvbox.live:8080/live/Derrick/Derrick/309038.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: Arryadia HD" tvg-logo="" group-title="ARABIC SPORTS",Sport | Ar: Arryadia HD
+http://livetvbox.live:8080/live/Derrick/Derrick/309039.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: Kuwait Sport Plus" tvg-logo="" group-title="ARABIC SPORTS",Sport | Ar: Kuwait Sport Plus
+http://livetvbox.live:8080/live/Derrick/Derrick/309040.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: Yas Sport" tvg-logo="" group-title="ARABIC SPORTS",Sport | Ar: Yas Sport
+http://livetvbox.live:8080/live/Derrick/Derrick/309041.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport: WWE HD" tvg-logo="" group-title="ARABIC SPORTS",Sport: WWE HD
+http://livetvbox.live:8080/live/Derrick/Derrick/309042.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport: RealMadrid TV" tvg-logo="" group-title="ARABIC SPORTS",Sport: RealMadrid TV
+http://livetvbox.live:8080/live/Derrick/Derrick/309043.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="DE | SKY ATLANTIC" tvg-logo="" group-title="DE | GERMANY",DE | SKY ATLANTIC
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/276187
+#EXTINF:-1 tvg-id="" tvg-name="DE | SKY CINEMA ACTION" tvg-logo="" group-title="DE | GERMANY",DE | SKY CINEMA ACTION
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/276188
+#EXTINF:-1 tvg-id="" tvg-name="DE | SKY CINEMA BEST OF" tvg-logo="" group-title="DE | GERMANY",DE | SKY CINEMA BEST OF
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/276189
+#EXTINF:-1 tvg-id="" tvg-name="DE | SKY CINEMA CLASSICS" tvg-logo="" group-title="DE | GERMANY",DE | SKY CINEMA CLASSICS
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/276190
+#EXTINF:-1 tvg-id="" tvg-name="DE | SKY CINEMA FAMILY" tvg-logo="" group-title="DE | GERMANY",DE | SKY CINEMA FAMILY
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/276191
+#EXTINF:-1 tvg-id="" tvg-name="DE | Sky Cinema Fun" tvg-logo="" group-title="DE | GERMANY",DE | Sky Cinema Fun
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/276192
+#EXTINF:-1 tvg-id="" tvg-name="DE  | SKY CINEMA PREMIEREN" tvg-logo="" group-title="DE | GERMANY",DE  | SKY CINEMA PREMIEREN
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/276193
+#EXTINF:-1 tvg-id="" tvg-name="DE | SKY CINEMA SPECIAL" tvg-logo="" group-title="DE | GERMANY",DE | SKY CINEMA SPECIAL
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/276194
+#EXTINF:-1 tvg-id="" tvg-name="DE | SKY CINEMA THRILLER" tvg-logo="" group-title="DE | GERMANY",DE | SKY CINEMA THRILLER
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/276195
+#EXTINF:-1 tvg-id="" tvg-name="DE | SKY CRIME" tvg-logo="" group-title="DE | GERMANY",DE | SKY CRIME
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/276196
+#EXTINF:-1 tvg-id="" tvg-name="DE | Sky Documentaries" tvg-logo="" group-title="DE | GERMANY",DE | Sky Documentaries
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/276197
+#EXTINF:-1 tvg-id="" tvg-name="DE | Sky Krimi" tvg-logo="" group-title="DE | GERMANY",DE | Sky Krimi
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/276198
+#EXTINF:-1 tvg-id="" tvg-name="DE | Sky Nature" tvg-logo="" group-title="DE | GERMANY",DE | Sky Nature
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/276199
+#EXTINF:-1 tvg-id="" tvg-name="DE | Sky One" tvg-logo="" group-title="DE | GERMANY",DE | Sky One
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/276200
+#EXTINF:-1 tvg-id="" tvg-name="DE | Sky Replay" tvg-logo="" group-title="DE | GERMANY",DE | Sky Replay
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/276201
+#EXTINF:-1 tvg-id="" tvg-name="DE | Sky Showcase" tvg-logo="" group-title="DE | GERMANY",DE | Sky Showcase
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/276203
+#EXTINF:-1 tvg-id="" tvg-name="DE | ZDF Neo" tvg-logo="" group-title="DE | GERMANY",DE | ZDF Neo
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/276204
+#EXTINF:-1 tvg-id="" tvg-name="DE | ZDF Info" tvg-logo="" group-title="DE | GERMANY",DE | ZDF Info
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/276205
+#EXTINF:-1 tvg-id="" tvg-name="DE | Kabel eins Classic" tvg-logo="" group-title="DE | GERMANY",DE | Kabel eins Classic
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/276206
+#EXTINF:-1 tvg-id="" tvg-name="DE | Sky Sport 1" tvg-logo="" group-title="DE | GERMANY",DE | Sky Sport 1
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/276207
+#EXTINF:-1 tvg-id="" tvg-name="DE | Sky Sport 2" tvg-logo="" group-title="DE | GERMANY",DE | Sky Sport 2
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/276208
+#EXTINF:-1 tvg-id="" tvg-name="DE | Sky Sport 3" tvg-logo="" group-title="DE | GERMANY",DE | Sky Sport 3
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/276209
+#EXTINF:-1 tvg-id="" tvg-name="DE | Sky Sport 4" tvg-logo="" group-title="DE | GERMANY",DE | Sky Sport 4
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/276210
+#EXTINF:-1 tvg-id="" tvg-name="DE | Sky Sport 5" tvg-logo="" group-title="DE | GERMANY",DE | Sky Sport 5
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/276211
+#EXTINF:-1 tvg-id="" tvg-name="DE | Sky Sport 6" tvg-logo="" group-title="DE | GERMANY",DE | Sky Sport 6
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/276212
+#EXTINF:-1 tvg-id="" tvg-name="DE | Sky Sport 7" tvg-logo="" group-title="DE | GERMANY",DE | Sky Sport 7
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/276213
+#EXTINF:-1 tvg-id="" tvg-name="DE | Sky Sport 8" tvg-logo="" group-title="DE | GERMANY",DE | Sky Sport 8
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/276214
+#EXTINF:-1 tvg-id="" tvg-name="DE | Sky Sport 9" tvg-logo="" group-title="DE | GERMANY",DE | Sky Sport 9
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/276215
+#EXTINF:-1 tvg-id="" tvg-name="DE | Sky Sport 10" tvg-logo="" group-title="DE | GERMANY",DE | Sky Sport 10
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/276216
+#EXTINF:-1 tvg-id="" tvg-name="DE | Sky Sport Bundesliga" tvg-logo="" group-title="DE | GERMANY",DE | Sky Sport Bundesliga
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/276217
+#EXTINF:-1 tvg-id="" tvg-name="DE | Sky Sport Bundesliga 1" tvg-logo="" group-title="DE | GERMANY",DE | Sky Sport Bundesliga 1
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/276218
+#EXTINF:-1 tvg-id="" tvg-name="DE | Sky Sport Bundesliga 2" tvg-logo="" group-title="DE | GERMANY",DE | Sky Sport Bundesliga 2
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/276219
+#EXTINF:-1 tvg-id="" tvg-name="DE | Sky Sport Bundesliga 3" tvg-logo="" group-title="DE | GERMANY",DE | Sky Sport Bundesliga 3
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/276220
+#EXTINF:-1 tvg-id="" tvg-name="DE | Sky Sport Bundesliga 4" tvg-logo="" group-title="DE | GERMANY",DE | Sky Sport Bundesliga 4
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/276221
+#EXTINF:-1 tvg-id="" tvg-name="DE | Sky Sport Bundesliga 5" tvg-logo="" group-title="DE | GERMANY",DE | Sky Sport Bundesliga 5
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/276222
+#EXTINF:-1 tvg-id="" tvg-name="DE | Sky Sport Bundesliga 6" tvg-logo="" group-title="DE | GERMANY",DE | Sky Sport Bundesliga 6
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/276223
+#EXTINF:-1 tvg-id="" tvg-name="DE | Sky Sport Bundesliga 7" tvg-logo="" group-title="DE | GERMANY",DE | Sky Sport Bundesliga 7
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/276224
+#EXTINF:-1 tvg-id="" tvg-name="DE | Sky Sport Bundesliga 8" tvg-logo="" group-title="DE | GERMANY",DE | Sky Sport Bundesliga 8
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/276225
+#EXTINF:-1 tvg-id="" tvg-name="DE | Sky Sport Bundesliga 9" tvg-logo="" group-title="DE | GERMANY",DE | Sky Sport Bundesliga 9
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/276226
+#EXTINF:-1 tvg-id="" tvg-name="DE | Sky Sport Bundesliga 10" tvg-logo="" group-title="DE | GERMANY",DE | Sky Sport Bundesliga 10
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/276227
+#EXTINF:-1 tvg-id="" tvg-name="DE | Sky Sport F1" tvg-logo="" group-title="DE | GERMANY",DE | Sky Sport F1
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/276228
+#EXTINF:-1 tvg-id="" tvg-name="DE | Sky Sport Mix" tvg-logo="" group-title="DE | GERMANY",DE | Sky Sport Mix
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/276229
+#EXTINF:-1 tvg-id="" tvg-name="DE | Sky Sport Tennis" tvg-logo="" group-title="DE | GERMANY",DE | Sky Sport Tennis
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/276230
+#EXTINF:-1 tvg-id="" tvg-name="DE | Sky Sport News" tvg-logo="" group-title="DE | GERMANY",DE | Sky Sport News
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/276231
+#EXTINF:-1 tvg-id="" tvg-name="DE | Sky Sport Top Event" tvg-logo="" group-title="DE | GERMANY",DE | Sky Sport Top Event
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/276232
+#EXTINF:-1 tvg-id="" tvg-name="DE | Syfy" tvg-logo="" group-title="DE | GERMANY",DE | Syfy
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/276233
+#EXTINF:-1 tvg-id="" tvg-name="DE | Universal" tvg-logo="" group-title="DE | GERMANY",DE | Universal
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/276234
+#EXTINF:-1 tvg-id="" tvg-name="DE | Cartoon Network" tvg-logo="" group-title="DE | GERMANY",DE | Cartoon Network
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/276235
+#EXTINF:-1 tvg-id="" tvg-name="DE | Nick Jr" tvg-logo="" group-title="DE | GERMANY",DE | Nick Jr
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/276236
+#EXTINF:-1 tvg-id="" tvg-name="DE | NickToons" tvg-logo="" group-title="DE | GERMANY",DE | NickToons
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/276237
+#EXTINF:-1 tvg-id="" tvg-name="DE | Discovery Channel" tvg-logo="" group-title="DE | GERMANY",DE | Discovery Channel
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/276238
+#EXTINF:-1 tvg-id="" tvg-name="DE | Crime + Investigation" tvg-logo="" group-title="DE | GERMANY",DE | Crime + Investigation
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/276239
+#EXTINF:-1 tvg-id="" tvg-name="DE | History" tvg-logo="" group-title="DE | GERMANY",DE | History
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/276240
+#EXTINF:-1 tvg-id="" tvg-name="DE | Warner TV Comedy" tvg-logo="" group-title="DE | GERMANY",DE | Warner TV Comedy
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/276241
+#EXTINF:-1 tvg-id="" tvg-name="DE | Warner TV Film" tvg-logo="" group-title="DE | GERMANY",DE | Warner TV Film
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/276242
+#EXTINF:-1 tvg-id="" tvg-name="DE | Warner TV Serie" tvg-logo="" group-title="DE | GERMANY",DE | Warner TV Serie
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/276243
+#EXTINF:-1 tvg-id="" tvg-name="DE | BR Fernsehen Süd" tvg-logo="" group-title="DE | GERMANY",DE | BR Fernsehen Süd
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/276244
+#EXTINF:-1 tvg-id="" tvg-name="DE | BR Fernsehen Nord" tvg-logo="" group-title="DE | GERMANY",DE | BR Fernsehen Nord
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/276245
+#EXTINF:-1 tvg-id="" tvg-name="DE | DAS ERSTE" tvg-logo="" group-title="DE | GERMANY",DE | DAS ERSTE
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/276246
+#EXTINF:-1 tvg-id="" tvg-name="DE  | ZDF" tvg-logo="" group-title="DE | GERMANY",DE  | ZDF
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/276247
+#EXTINF:-1 tvg-id="" tvg-name="DE | RTL" tvg-logo="" group-title="DE | GERMANY",DE | RTL
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/276248
+#EXTINF:-1 tvg-id="" tvg-name="DE | RTL II " tvg-logo="" group-title="DE | GERMANY",DE | RTL II 
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/276249
+#EXTINF:-1 tvg-id="" tvg-name="DE | RTL SUPER" tvg-logo="" group-title="DE | GERMANY",DE | RTL SUPER
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/276250
+#EXTINF:-1 tvg-id="" tvg-name="DE | VOX" tvg-logo="" group-title="DE | GERMANY",DE | VOX
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/276251
+#EXTINF:-1 tvg-id="" tvg-name="DE | SAT 1" tvg-logo="" group-title="DE | GERMANY",DE | SAT 1
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/276252
+#EXTINF:-1 tvg-id="" tvg-name="DE | SAT 1 GOLD" tvg-logo="" group-title="DE | GERMANY",DE | SAT 1 GOLD
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/276253
+#EXTINF:-1 tvg-id="" tvg-name="DE | PRO7 MAXX" tvg-logo="" group-title="DE | GERMANY",DE | PRO7 MAXX
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/276254
+#EXTINF:-1 tvg-id="" tvg-name="DE | Anixe HD Serie" tvg-logo="" group-title="DE | GERMANY",DE | Anixe HD Serie
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/276255
+#EXTINF:-1 tvg-id="" tvg-name="DE | ALPHA" tvg-logo="" group-title="DE | GERMANY",DE | ALPHA
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/276256
+#EXTINF:-1 tvg-id="" tvg-name="DE | 3SAT" tvg-logo="" group-title="DE | GERMANY",DE | 3SAT
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/276257
+#EXTINF:-1 tvg-id="" tvg-name="DE | SIXX" tvg-logo="" group-title="DE | GERMANY",DE | SIXX
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/276258
+#EXTINF:-1 tvg-id="" tvg-name="DE | WDR" tvg-logo="" group-title="DE | GERMANY",DE | WDR
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/276259
+#EXTINF:-1 tvg-id="" tvg-name="DE | NDR" tvg-logo="" group-title="DE | GERMANY",DE | NDR
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/276260
+
+#EXTINF:-1 tvg-id="" tvg-name="UK| Sky Sports Action FHD" tvg-logo="" group-title="UK ",UK| Sky Sports Action FHD
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/148467
+#EXTINF:-1 tvg-id="" tvg-name="UK| Sky Sports Arena FHD" tvg-logo="" group-title="UK ",UK| Sky Sports Arena FHD
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/148468
+#EXTINF:-1 tvg-id="" tvg-name="UK| Sky Sports Box Office FHD" tvg-logo="" group-title="UK ",UK| Sky Sports Box Office FHD
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/148469
+#EXTINF:-1 tvg-id="" tvg-name="UK| Sky Sports Box Office HD" tvg-logo="" group-title="UK ",UK| Sky Sports Box Office HD
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/148470
+#EXTINF:-1 tvg-id="" tvg-name="UK| Sky Sports Box Office SD" tvg-logo="" group-title="UK ",UK| Sky Sports Box Office SD
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/148471
+#EXTINF:-1 tvg-id="" tvg-name="UK| Sky Sports Cricket FHD" tvg-logo="" group-title="UK ",UK| Sky Sports Cricket FHD
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/148472
+#EXTINF:-1 tvg-id="" tvg-name="UK| Sky Sports F1 FHD" tvg-logo="" group-title="UK ",UK| Sky Sports F1 FHD
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/148473
+#EXTINF:-1 tvg-id="" tvg-name="UK| Sky Sports Football FHD" tvg-logo="" group-title="UK ",UK| Sky Sports Football FHD
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/148474
+#EXTINF:-1 tvg-id="" tvg-name="UK| Sky Sports Golf FHD" tvg-logo="" group-title="UK ",UK| Sky Sports Golf FHD
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/148475
+#EXTINF:-1 tvg-id="" tvg-name="UK| Sky Sports Main Event FHD" tvg-logo="" group-title="UK ",UK| Sky Sports Main Event FHD
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/148476
+#EXTINF:-1 tvg-id="" tvg-name="UK| Sky Sports Mix FHD" tvg-logo="" group-title="UK ",UK| Sky Sports Mix FHD
+http://filex.tv:8080/Murtazatv/9XDcfLBATc5U/148477
+
